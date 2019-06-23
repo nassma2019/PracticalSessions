@@ -3,8 +3,6 @@ by Wojtek Czarnecki
 
 _Designed for education purposes. Please do not distribute without permission_.
 
-**Questions/Correspondence**: 2018tmlss@gmail.com
-
 ## This is a tutorial training various RNNs on simple datasets and doing some analysis.
 
 #### Structure:
