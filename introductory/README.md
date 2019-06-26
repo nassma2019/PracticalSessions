@@ -34,7 +34,7 @@ By the end of this colab you will know how to make plots in Python, and will hav
 
 Open the file _Intro: Numpy And Plotting.ipynb_ to access the colab.
 
-## Lab 1.4: Training an NXOR classifier with Tensorflow and Sonnet
+## Lab 1.3: Training an NXOR classifier with Tensorflow and Sonnet
 In this colab you learn how to build tf and [sonnet](https://github.com/deepmind/sonnet) models that will be useful in the computer vision and NLP lab. We also cover topics like
 
 * a number of lower level tensor operations
